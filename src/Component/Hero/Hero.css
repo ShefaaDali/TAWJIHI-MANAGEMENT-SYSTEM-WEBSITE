@@ -1,0 +1,27 @@
+.hero-main{
+  height: 10rem;
+  margin-top: 75px;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 250px;
+}
+.hero-main-img{
+  width:400px;
+  display:block;
+  margin-left: 30%;
+  border:none;
+  padding:0;
+  box-sizing: border-box;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.hero-text{
+  margin-left: 180px;
+}
+.hero-text h1{
+  color: royalblue;
+  text-transform: uppercase;
+  font-size: 40px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}

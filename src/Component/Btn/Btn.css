@@ -1,0 +1,16 @@
+.myBtn{
+    display: block;
+    margin: 5px 5%;
+    width: 90%;
+    border-color: var(--dark-blue);
+    border: solid 1px;
+    border-radius: 20px;
+    height: 40px;
+    font-size: 15px;
+    background-color: var(--ligth-blue);
+    font-weight: bold;}
+
+.myBtn:hover{
+    border: solid 1px;
+    background-color: var(--very-ligth-blue);
+}

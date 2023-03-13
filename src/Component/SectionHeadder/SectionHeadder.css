@@ -1,0 +1,9 @@
+.section-headder h4{
+    font-size:30px ;
+    margin-bottom:40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align:left;
+    font-weight: 20px;
+    color:hsl(240, 97%, 15%);
+}

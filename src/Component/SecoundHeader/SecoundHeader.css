@@ -1,0 +1,31 @@
+.navbar-brand{
+    font-size:20px;
+  }
+  .navbar-brand img{
+    width: 60px;
+  }
+  .system-navbar{
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+    border-top: 1px solid;
+    box-sizing: border-box;
+    color: royalblue;
+    padding:  5px 250px;
+    box-shadow:0px 5px 5px var(--shadow-color);
+  
+  }
+  
+  .but-main{
+    border-width: 1px;
+    color: #4169e1;
+    padding: 10px 18px;
+    display: inline-block;
+    border-radius: 25px;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    position: relative;
+    overflow: hidden;
+  }
+  .navbar-light .navbar-brand {
+    color:royalblue;
+  }

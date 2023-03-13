@@ -1,0 +1,49 @@
+.Curriculum-item {
+  display:flex;
+  flex-direction: column;
+    flex: 1;
+    min-width: 200px;
+  }
+    
+  .subject {
+    justify-content: center;
+    max-width: 180px;
+    width: 55%;
+    border-radius: 50px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+  }
+  
+  .curriculum-item-content {
+    justify-content: center;
+    width: 55%;
+    display: flex 25%;
+    text-align: center;
+  }
+  
+  .curriculum-item-title {
+    padding-left: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(1, 1, 78);
+    margin-block-end: 0%;
+    margin-block-start: 2%;
+    margin-left: 4%;
+  }
+  .curriculum-item-title span{
+      font-size: 15px;
+      margin: 5px;
+  }
+.Curriculum-Btn{
+    border-color: var(--dark-blue);
+    border-style: solid;
+    width: 120px;
+    font-size: 15px;
+    border-radius: 50px;
+    color: royalblue;
+    padding: 6px 6px;
+    display: block;
+    position: relative;
+    margin: 10px auto;
+  }
+  

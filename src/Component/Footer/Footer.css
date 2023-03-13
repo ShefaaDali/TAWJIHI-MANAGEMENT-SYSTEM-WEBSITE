@@ -1,0 +1,18 @@
+.footer-bar{
+   text-align: center;
+    transition: all.3s;
+    background-color: #f8f9fa;
+    box-shadow: 0 -4px 12px 0 rgb(0 0 0 / 10%);
+    padding: 5px 0;
+    color: #000;
+    font-size: x-large;
+    display: block;
+    margin-bottom: 0px;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-bar em{
+    font-size: large;
+  }
+  

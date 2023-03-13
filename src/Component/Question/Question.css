@@ -1,0 +1,16 @@
+.question {
+    padding: 15px;
+    border: 1px solid;
+    border-radius: 15px;
+    border-color: var(--shadow-color);
+font-size: 20px;
+margin: 30px;
+}
+.review{
+    display: none;
+    font-weight: 500;
+}
+.correctIcon,.wrongIcon{
+    width: 30px;
+    margin-left: 10px;
+}

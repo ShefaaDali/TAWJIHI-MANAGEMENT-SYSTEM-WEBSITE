@@ -1,0 +1,45 @@
+/* .profile{
+    border-radius: 46px;
+    background-color: var(--rigister-form-background);
+    color: var(--dark-blue);
+    margin-top: 9rem;
+    margin-bottom: 43rem;
+    height:70rem;
+  } */
+  
+  /* .profile p{
+    margin-left: 2rem;
+    font-size: x-large;
+    color: var(--dark-blue);
+    
+  } */
+  
+  .pro-img{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    border-radius: 20px;
+  }
+  
+  .main-pro{
+    font-size: x-large;
+    text-decoration: none;
+  }
+  
+  
+  table{
+    width: 80%;
+  }
+  thead th{
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    border:1px solid #193157;
+  }
+  tbody th{
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    border:1px solid #193157;
+   
+  }

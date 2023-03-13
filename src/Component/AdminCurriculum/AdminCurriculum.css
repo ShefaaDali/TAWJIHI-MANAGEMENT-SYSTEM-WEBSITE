@@ -1,0 +1,22 @@
+.Curriculum-items{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap:wrap ;
+}
+
+.adminButton{
+  width: auto;
+  height: auto;
+  padding: 10px;
+  text-align: center;
+  font-weight: 500;
+  color: var(--dark-blue);
+  border:2px var(--dark-blue) solid;
+}
+.adminButton:hover{
+  background-color: #d2d2d2 ;
+
+}
+.adminButton img{
+  width: 40px;
+}
