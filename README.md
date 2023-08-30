@@ -29,7 +29,6 @@ also, the student could print the exam details table by pressing the print table
 
 https://github.com/ShefaaDali/TAWJIHI-MANAGEMENT-SYSTEM-WEBSITE/assets/70350753/bc3aca98-bb94-4791-a405-b838f2f6ec4a
 
-https://github.com/ShefaaDali/TAWJIHI-MANAGEMENT-SYSTEM-WEBSITE/assets/70350753/bc3aca98-bb94-4791-a405-b838f2f6ec4a
 
 
 
