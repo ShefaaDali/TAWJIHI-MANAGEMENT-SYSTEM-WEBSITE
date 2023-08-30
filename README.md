@@ -1,4 +1,6 @@
 #	✨ A Round Through The Website 
+🔺note: This repo contains the client-side, the server-side code is on this [repo](https://github.com/ShefaaDali/TAWJIHI-MANAGEMENT-SYSTEM-WEBSITE-server-side)
+
 
 ### Sign Up, Login and Log Out
 
